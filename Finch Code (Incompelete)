@@ -1,0 +1,29 @@
+package cfgdthr4eyhwerg;
+import java.util.*;
+
+public class Main {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		boolean flag = true;
+
+		Finch finch = new Finch();
+
+		while (flag) {
+			System.out.println("(WASD)");
+			String input = sc.nextLine().toUpperCase();
+
+			if (input.equals("W")) {
+				finch.setMove("F", 10, 50);
+			} else if (input.equals("A")) {
+				finch.setTurn("L", 90, 50);
+			} else if (input.equals("S")) {
+				finch.setMove("B", 10, 50);
+			} else if (input.equals("D")) {
+				finch.setTurn("R", 90, 50);
+			} else {
+				flag = false;
+				sc.close();
+			}
+		}
+	}
+}
