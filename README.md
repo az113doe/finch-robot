@@ -2,9 +2,15 @@
 | Sucess  | Aim | Progress |
 | ------- | --- | -------- |
 | Okay    | Familarize with Finch Robot | 75% |
+| Almost  | Developement of code for user input movement | 85% |
 
-## Intentions: 
-Finch robot to move around with user input
+## My Motivation:
+The movement of the finch robot interested me the most, and with the user inputted movement compeleted, it become a strong foundation for additional code later on
+
+## Uniqueness: 
+The user input, should allow the finch robot to feel like a control race car
+
+## Design Cycle
 
 ## Approach:
 - Usage of Scanner to detect user input
@@ -28,5 +34,5 @@ if (input.equals("W")) {Add commentMore actions
 			}
 ```
 
-## End Result:
-The end result should be moving forward and backward. However, the end result I want would be for A and D, to turn the robot and have it also move
+## End Result & What I learned:
+(To be finished at the end)
