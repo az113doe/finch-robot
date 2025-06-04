@@ -11,6 +11,7 @@ The movement of the finch robot interested me the most, and with the user inputt
 The user input, should allow the finch robot to feel like a control race car
 
 ## Design Cycle
+<img src="[images/example.png](https://res.cloudinary.com/monday-blogs/w_1200,h_1200,c_fit/fl_lossy,f_auto,q_auto/wp-blog/2021/02/Design-process-diagram.png)" width="300" />
 
 ## Approach:
 - Usage of Scanner to detect user input
