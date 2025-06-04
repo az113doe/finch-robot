@@ -1,4 +1,7 @@
 # Goals for finch robots:
+| Sucess  | Aim | Progress |
+| ------- | --- | -------- |
+| Okay    | Familarize with Finch Robot | 75% |
 
 ## Intentions: 
 Finch robot to move around with user input
