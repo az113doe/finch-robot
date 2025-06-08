@@ -12,7 +12,7 @@ The user input, should allow the finch robot to feel like a control race car
 
 ## Design Cycle
 
-
+<img src="(https://github.com/hansTeachesCS/finch-robot/blob/main/design_cycle.png)" alt="" width="300" height="200">
 ## Approach:
 - Usage of Scanner to detect user input
 - Conditional Statements (WASD) for the movement
