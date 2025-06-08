@@ -36,4 +36,5 @@ if (input.equals("W")) {Add commentMore actions
 ```
 
 ## End Result & What I learned:
-(To be finished at the end)
+The robot moves using WASD input like most video games. It similar to the movement of snake.
+Overall, experimenting and familarizing myself with the finch robot thought help me further enhance my views of the design cycle, it a process that I was using during science research in SRMP, but certain part like **create** and **improve** were often gloss over
