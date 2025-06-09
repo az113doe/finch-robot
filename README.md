@@ -23,7 +23,7 @@ The user input, should allow the finch robot to feel like a controlled robot goi
 - Calling the setMove and setTurn methods from finch.java class
 
 ## Highlight Code:
-```
+```java
 finch.setTurn("L", 90, 50);
 finch.setMove("F", 10, 50);
 ```
