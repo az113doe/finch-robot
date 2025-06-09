@@ -24,16 +24,11 @@ The user input, should allow the finch robot to feel like a control race car
 
 ## Highlight Code:
 ```
-if (input.equals("W")) {Add commentMore actions
-				finch.setMove("F", 10, 50);
-			} else if (input.equals("A")) {
-				finch.setTurn("L", 90, 50);
-			} else if (input.equals("S")) {
-				finch.setMove("B", 10, 50);
-			} else if (input.equals("D")) {
-				finch.setTurn("R", 90, 50);
-			}
+finch.setTurn("L", 90, 50);
+finch.setMove("F", 10, 50);
 ```
+---
+This portion of the code, allows for user to turn left then move forward. It uses the same command for moving forward as the input "W"
 
 ## End Result & What I learned:
 The robot moves using WASD input like most video games. It similar to the movement of snake.
