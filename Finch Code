@@ -8,7 +8,7 @@ public class Main {
 		Finch finch = new Finch();
 
 		while (flag) {
-			System.out.println("(WASD)");
+			System.out.println(""); //WASD controls
 			String input = sc.nextLine().toUpperCase();
 
 			if (input.equals("W")) {
