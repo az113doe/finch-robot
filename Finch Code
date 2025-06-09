@@ -1,4 +1,3 @@
-package cfgdthr4eyhwerg;
 import java.util.*;
 
 public class Main {
@@ -16,10 +15,12 @@ public class Main {
 				finch.setMove("F", 10, 50);
 			} else if (input.equals("A")) {
 				finch.setTurn("L", 90, 50);
+				finch.setMove("F", 10, 50);
 			} else if (input.equals("S")) {
 				finch.setMove("B", 10, 50);
 			} else if (input.equals("D")) {
 				finch.setTurn("R", 90, 50);
+				finch.setMove("F", 10, 50);			
 			} else {
 				flag = false;
 				sc.close();
