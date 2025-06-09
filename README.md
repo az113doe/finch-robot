@@ -1,8 +1,8 @@
 # Goals for finch robots:
 | Sucess  | Aim | Progress |
 | ------- | --- | -------- |
-| Okay    | Familarize with Finch Robot | 75% |
-| Almost  | Developement of code for user input movement | 85% |
+| Sucessful  | Familarize with Finch Robot | 95% |
+| Sucessful  | Developement of code for user input movement | 90% |
 
 ## My Motivation:
 The movement of the finch robot interested me the most, and with the user inputted movement compeleted, it become a strong foundation for additional code later on
@@ -38,3 +38,6 @@ if (input.equals("W")) {Add commentMore actions
 ## End Result & What I learned:
 The robot moves using WASD input like most video games. It similar to the movement of snake.
 Overall, experimenting and familarizing myself with the finch robot thought help me further enhance my views of the design cycle, it a process that I was using during science research in SRMP, but certain part like **create** and **improve** were often gloss over
+
+## Future prospect:
+In the future, with more time experimenting on the finch robot, hopefully the control can expand from North, South, West, East to having diagonal movements. Additional, having the robot turn left (180 degrees) when it facing right
