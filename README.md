@@ -8,7 +8,7 @@
 The movement of the finch robot interested me the most, and with the user inputted movement compeleted, it become a strong foundation for additional code later on
 
 ## Uniqueness: 
-The user input, should allow the finch robot to feel like a control race car
+The user input, should allow the finch robot to feel like a controlled robot going through a maze. It was inspired from robotics 1, a class that had an assignment to program a robot movement through a maze, without hitting the obstacles
 
 ## Design Cycle
 ![alt text](https://github.com/hansTeachesCS/finch-robot/blob/main/design_cycle.png)
